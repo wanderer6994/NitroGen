@@ -5,7 +5,7 @@ NodeJS Discord nitro generator
 
 # How to use
 1. In proxies.txt put your fresh HTTP proxies
-2. Run install_and_run to install dependencies and run the generator
+2. Run install_and_run to install dependencies and run the generator 'node app.js'
 
 # How does it work
 It's trying to generate valid invite code by generating random 16 letter long string which is being sent to discordapp.com to see if it's valid. 
